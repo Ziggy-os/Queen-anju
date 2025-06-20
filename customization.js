@@ -210,7 +210,7 @@ ${description}
   },
   FILMPOMOVIE: function (title, rating, year, duration) {
     return `
-🎬 *『 𝑨𝑵𝑱𝑼 Xᴾᴿᴼ 𝑪𝑰𝑵𝑬𝑴𝑨 』* 🍿  
+🎬 *『 white shadow 𝑪𝑰𝑵𝑬𝑴𝑨 』* 🍿  
 
 ✨ *𝙼𝚘𝚟𝚒𝚎 𝙽𝚊𝚖𝚎:* ${title}
 ⭐ *𝙸𝙼𝙳𝙱 𝚁𝚊𝚝𝚒𝚗𝚐:* ${rating}
